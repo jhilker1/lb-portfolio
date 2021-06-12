@@ -1,0 +1,18 @@
+baseURL = "http://jhilker1.github.io/lb-portfolio" # The URL of your site. If this is in a repo called `githubUserName.github.io`, set the baseURL to `githubUserName.github.io`, same is true for gitlab
+languageCode = "en-us"
+title = "My New Hugo Site" # This is for the site title.
+theme = "ticky_tacky_dark" # The theme of the website.
+
+[params]
+
+    # favicon = "favicon.ico" The Favicon for the website, aka the icon in the tab. Goes in the static folder, and otherwise is the path to the file.
+    description = "The demonstration page for the Hugo Ticky Tacky Dark theme." # Site Description
+    images = ["img/sketch.jpg", "img/castle-sketch.jpg"] # any images/headers you want to feature. Images go in the static folder,
+    headername = "LithiumBlossum" # What You See in the header
+    #msvalidate = ""
+    #googlesiteverification = ""
+
+[Author]
+    name = "Jacob Hilker" # Your Name
+    email = "jacob.hilker2@gmail.com" # Your Email
+
